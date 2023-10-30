@@ -1,1 +1,4 @@
-"# oop_crashCourse" 
+ ## ✨ STAR THE REPO
+# OOP CRASH COURSE MATERIALS IN JAVA !! 
+
+Lecture Video : 
